@@ -3,7 +3,7 @@
 :pushpin: Projeto acadêmico realizado com o intuito de colocar em prática os primeiros aprendizados em Javascript.
 
 <div align="center">
-<img src="img/demo.gif">
+<img width="700px" src="image/demo.gif">
 </div>
 
 ## 🛠️ Stacks e conhecimentos utilizados
@@ -13,9 +13,9 @@
     <summary><b>HTML</b></summary>
     <br>
 
-- Uso de tags semânticas, como *header, nav, main, footer*, entre outras.
-- Atenção à acessibilidade.
-- SEO e boas práticas.
+- Uso de tags semânticas, como HEADER, SECTIO e FOOTER;
+- Framework Bootstrap
+
 </details>
 
 <details>
@@ -23,12 +23,15 @@
     <br>
 
 - CSS Grid e Flexbox para posicionamento de itens e criação do layout.
-- Responsividade com media queries.
+- Bootstrap e estilização da página
 </details>
 
 <details>
     <summary><b>Javascript</b></summary>
     <br>
 
-- Criação de função para ativar quando inserir os acessos.
+- Criação de função para realizar o cálculo das notas;
+- Função de atulizar a lista de cadastro;
+- Função de adicionar alunos;
+- Uso de função anônima;
 </details>
