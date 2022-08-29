@@ -3,7 +3,7 @@
 :pushpin: Projeto acadêmico realizado com o intuito de colocar em prática os primeiros aprendizados em Javascript.
 
 <div align="center">
-<img width="700px" src="image/demo.gif">
+<img width="400px" src="image/demo.gif">
 </div>
 
 ## 🛠️ Stacks e conhecimentos utilizados
