@@ -1,46 +1,49 @@
-<h1 align="center"> Boletim Escolar </h1>
+<img src="image\banner_boletim.png" alt="" width="100%">
 
-:pushpin: Projeto acadêmico realizado com o intuito de colocar em prática os primeiros aprendizados em Javascript.
+## 🚀 Apresentação
+<br>
+📍 Projeto acadêmico realizado com o intuito de colocar em prática os primeiros aprendizados em Javascript.
+<br>
+<br>
+
+## 📹 Demonstração
+<br>
 
 <div align="center">
-<img width="800px" src="image/demo.gif">
+<img width="80%" src="image/demo.gif">
 </div>
+<br>
 
 ## 🛠️ Stacks e conhecimentos utilizados
+<br>
 
-<details>
-    <summary><b>HTML</b></summary>
-    <br>
+<b>📌 HTML</b>
+<br>
 
-    - Uso de tags semânticas, como HEADER, SECTIO e FOOTER;
-    - Framework Bootstrap
+- Uso de tags semânticas, como HEADER, SECTIO e FOOTER;
+- Framework Bootstrap
 
-</details>
+<b>📌 CSS</b>
+<br>
 
-<details>
-    <summary><b>CSS</b></summary>
-    <br>
+- CSS Grid e Flexbox para posicionamento de itens e criação do layout.
+- Bootstrap e estilização da página.
 
-    - CSS Grid e Flexbox para posicionamento de itens e criação do layout.
-    - Bootstrap e estilização da página.
-</details>
+<b>📌 Javascript</b>
+<br>
+- Criação de função para realizar o cálculo das notas;
+- Função de atulizar a lista de cadastro;
+- Função de adicionar alunos;
+- Uso de função anônima;
+<br>
 
-<details>
-    <summary><b>Javascript</b></summary>
-    <br>
-    - Criação de função para realizar o cálculo das notas;
-    - Função de atulizar a lista de cadastro;
-    - Função de adicionar alunos;
-    - Uso de função anônima;
-</details>
+## ✔ Á Melhorar
+<br>
 
-## :triangular_flag_on_post: Á Melhorar
-<b>
-    - Reduzir a quantidade de variáveis no js. <br>
-    - Inserir a caixar de 'Search' na lista. <br>
-    - Botão de excluir. <br>
-    - Melhorar o uso do bootstrap. <br>
-</b>
+- Reduzir a quantidade de variáveis no js.
+- Inserir a caixar de 'Search' na lista.
+- Botão de excluir.
+- Melhorar o uso do bootstrap.
 
 
 
